@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\bin\Debug\dialog örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\bin\Debug\dialog örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\bin\Debug\dialog örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog_örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog_örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\dialog örnek\dialog örnek\obj\Debug\dialog örnek.pdb
